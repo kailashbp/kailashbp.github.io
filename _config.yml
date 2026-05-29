@@ -1,0 +1,29 @@
+title: Kailash BP
+url: "https://kailashbp.github.io/"
+baseurl: ""
+remote_theme: ankitsultana/researcher@gem
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://kailashbp.github.io/"
+footer_text: "Page design by ankitsultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+  - name: "About"
+    link: "/"
+  - name: "Research"
+    link: "/research"
+  - name: "Activities"
+    link: "/activities"
+  - name: "Life outtakes"
+    link: "/beyond-research"
+  - name: "Contact"
+    link: "/contact"
