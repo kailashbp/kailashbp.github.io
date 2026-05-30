@@ -5,7 +5,7 @@ title: Kailash BP
 
 ## About Me
 
-<img class="profile-picture" src="images/KailashBP_2.jpg">
+<img class="profile-picture" src="images/KailashBP.jpg">
 
 I am a PhD candidate at the [Raj Lab](https://rajlab.org/), Icahn School of Medicine at Mount Sinai (ISMMS), advised by Dr. [Towfique Raj](https://scholar.google.com/citations?user=_1soEyEAAAAJ&hl=en). My research focuses on decoding the distal genetic regulation of gene expression and splicing in the human brain using computational approaches.
 
