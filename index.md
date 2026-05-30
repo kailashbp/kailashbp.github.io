@@ -13,7 +13,7 @@ I graduated from the [Bhupat and Jyoti Mehta School of Biosciences, Department o
 
 ## Contact
 
-<div style="text-align:center; margin-top:15px; font-size:1.5em;">
+<div style="text-align:center; margin-top:15px; font-size:1.0em;">
 
 <a href="mailto:kailashbp10@gmail.com" title="Email">
   <i class="fa-solid fa-envelope"></i>
