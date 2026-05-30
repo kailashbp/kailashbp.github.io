@@ -13,37 +13,37 @@ I graduated from the [Bhupat and Jyoti Mehta School of Biosciences, Department o
 
 ## Contact
 
-<div style="text-align:center; margin-top:15px;">
+<div style="text-align:center; margin-top:15px; font-size:1.5em;">
 
 <a href="mailto:kailashbp10@gmail.com" title="Email">
   <i class="fa-solid fa-envelope"></i>
 </a>
 
-·
+&nbsp;·&nbsp;
 
 <a href="https://drive.google.com/file/d/1coTu0adypxMUBmjIfUMQULzojr1cAlFG/view?usp=sharing" title="CV">
   <i class="fa-solid fa-file-pdf"></i>
 </a>
 
-·
+&nbsp;·&nbsp;
 
 <a href="https://scholar.google.com/citations?user=Rj9Ef80AAAAJ&hl=en" title="Google Scholar">
   <i class="fa-solid fa-graduation-cap"></i>
 </a>
 
-·
+&nbsp;·&nbsp;
 
 <a href="https://orcid.org/0000-0002-1501-4881" title="ORCID">
   <i class="fa-brands fa-orcid"></i>
 </a>
 
-·
+&nbsp;·&nbsp;
 
 <a href="https://github.com/kailashbp" title="GitHub">
   <i class="fa-brands fa-github"></i>
 </a>
 
-·
+&nbsp;·&nbsp;
 
 <a href="https://www.linkedin.com/in/kailashbp10/" title="LinkedIn">
   <i class="fa-brands fa-linkedin"></i>

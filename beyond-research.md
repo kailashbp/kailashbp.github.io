@@ -14,7 +14,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/BoG_2026.jpg" width="250"><br>
+<img src="/images/BoG_2026.jpg" width="400"><br>
 <em>@ Biology of Genomes 2026</em>
 </td>
 
@@ -26,7 +26,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <tr>
 <td align="center">
-<img src="/images/LanguageProject_talk.jpg" width="250"><br>
+<img src="/images/LanguageProject_talk.jpg" width="400"><br>
 <em>Sharing The Language Project and the importance of accessible science communication</em>
 </td>
 
@@ -45,7 +45,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/ASHG_2025_poster.jpg" width="250"><br>
+<img src="/images/ASHG_2025_poster.jpg" width="200"><br>
 <em>Reviewer’s Choice poster session at ASHG 2025</em>
 </td>
 
@@ -75,7 +75,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/RajLab_2025_holiday.jpg" width="250"><br>
+<img src="/images/RajLab_2025_holiday.jpg" width="400"><br>
 <em>2025</em>
 </td>
 
@@ -87,7 +87,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <tr>
 <td align="center">
-<img src="/images/RajLab_2023_holiday_dinner.jpeg" width="250"><br>
+<img src="/images/RajLab_2023_holiday_dinner.jpeg" width="300"><br>
 <em>2023</em>
 </td>
 
@@ -123,12 +123,12 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/RajLab_Jul2025_cake.jpeg" width="250"><br>
+<img src="/images/RajLab_Jul2025_cake.jpeg" width="150"><br>
 <em>July 2025</em>
 </td>
 
 <td align="center">
-<img src="/images/RajLab_Jul_2024_birthday.jpg" width="250"><br>
+<img src="/images/RajLab_Jul_2024_birthday.jpg" width="300"><br>
 <em>July 2024</em>
 </td>
 </tr>
@@ -146,7 +146,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 </td>
 
 <td align="center">
-<img src="/images/ASHG_2023_white_house.jpeg" width="250"><br>
+<img src="/images/ASHG_2023_white_house.jpeg" width="350"><br>
 <em>White House tour, Washington DC</em>
 </td>
 </tr>
@@ -172,7 +172,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <tr>
 <td align="center">
-<img src="/images/Merck.jpg" width="250"><br>
+<img src="/images/Merck.jpg" width="200"><br>
 <em>Merck co-op, Cambridge MA (Aug–Dec 2025)</em>
 </td>
 
