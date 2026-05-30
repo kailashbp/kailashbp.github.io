@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Outreach
+title: Science Communication
 ---
 
-# Outreach
+# Science Communication highlights
 
 <table>
   <tr>

@@ -13,14 +13,45 @@ I graduated from the [Bhupat and Jyoti Mehta School of Biosciences, Department o
 
 ## Contact
 
-📧 [Email](mailto:kailashbp10@gmail.com) ·
-📄 [CV](https://drive.google.com/file/d/1coTu0adypxMUBmjIfUMQULzojr1cAlFG/view?usp=sharing) ·
-🎓 [Google Scholar](https://scholar.google.com/citations?user=Rj9Ef80AAAAJ&hl=en) ·
-🆔 [ORCID](https://orcid.org/0000-0002-1501-4881) ·
-💻 [GitHub](https://github.com/kailashbp) ·
-💼 [LinkedIn](https://www.linkedin.com/in/kailashbp10/)
+<div style="text-align:center; margin-top:15px;">
 
-<h2>Research Highlights</h2>
+<a href="mailto:kailashbp10@gmail.com" title="Email">
+  <i class="fa-solid fa-envelope"></i>
+</a>
+
+·
+
+<a href="https://drive.google.com/file/d/1coTu0adypxMUBmjIfUMQULzojr1cAlFG/view?usp=sharing" title="CV">
+  <i class="fa-solid fa-file-pdf"></i>
+</a>
+
+·
+
+<a href="https://scholar.google.com/citations?user=Rj9Ef80AAAAJ&hl=en" title="Google Scholar">
+  <i class="fa-solid fa-graduation-cap"></i>
+</a>
+
+·
+
+<a href="https://orcid.org/0000-0002-1501-4881" title="ORCID">
+  <i class="fa-brands fa-orcid"></i>
+</a>
+
+·
+
+<a href="https://github.com/kailashbp" title="GitHub">
+  <i class="fa-brands fa-github"></i>
+</a>
+
+·
+
+<a href="https://www.linkedin.com/in/kailashbp10/" title="LinkedIn">
+  <i class="fa-brands fa-linkedin"></i>
+</a>
+
+</div>
+
+## Research highlights
 
 <table>
   <tr>
@@ -29,7 +60,7 @@ I graduated from the [Bhupat and Jyoti Mehta School of Biosciences, Department o
     </td>
     <td>
       <strong><a href="/research#bigbrain">BigBrain</a></strong>
-      Decoding the *trans*-regulatory architecture of expression and splicing in the human brain.
+      Decoding the <em>trans</em>-regulatory architecture of expression and splicing in the human brain.
     </td>
   </tr>
 
@@ -68,7 +99,7 @@ I graduated from the [Bhupat and Jyoti Mehta School of Biosciences, Department o
 
 - [Research](/research) — Current and past projects
 - [Activities](/activities) — News, awards, teaching, communication, outreach, and memberships
-- [Outreach](/outreach) — Science communication outreach efforts
+- [Science Communication](/scicomm) — Communication outreach efforts
 - [Beyond research](/beyond-research) — Outside the lab
 
 ### License

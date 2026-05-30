@@ -14,7 +14,7 @@ title: Activities
 
 ### 2025
 
-- **December** — Completed a 4 month co-op at **Merck, Cambrdige, MA, USA.** Fantastic experience of R&D at a big pharma - thanks to DAGS team.
+- **December** — Completed a 4 month co-op at **Merck, Cambrdige, MA, USA.** Fantastic early-stage R&D experience at a big pharma - thanks to Becky, Deepak and the DAGS (Data AI and Genome Sciences) team.
 - **October** — Presented my "Reviewer's Choice" poster at ASHG!
 - **June** — Presented my work as a poster at the first Alzheimer's disease GRC co-chaired by Towfique! 
 
@@ -27,6 +27,7 @@ title: Activities
 ### 2023
 
 - **November** — Delivered a platform oral presentation at the **American Society of Human Genetics (ASHG) Annual Meeting**, Washington, DC.
+- **July** - Participated in Summer Instititue of Statistical Genetics held at UDub, Seattle with scholarship.
 - **July** - Advanced to PhD candidacy after successfully defending my dissertation proposal.
 
 ### 2022
@@ -46,7 +47,7 @@ title: Activities
 
 ### 2019
 
-- **December** — Master's thesis work on Alzheimer's disease inter-tissue co-expression network dysregulation was presented at the **Cold Spring Harbor Laboratory Conference: Development and 3D Modeling of the Human Brain**.
+- **December** — Master's thesis work on Alzheimer's disease inter-tissue co-expression network dysregulation was presented by my advisor Manikandan Narayanan at the **Cold Spring Harbor Laboratory Conference: Development and 3D Modeling of the Human Brain**.
 - **October** — Presented work on the spatial progression of Alzheimer's disease at **BESCON 2019**.
 - **July** — Released the **ChassiDex** preprint on bioRxiv.
 
@@ -56,7 +57,7 @@ title: Activities
 
 ### 2017
 
-- **May** — Completed a summer internship at **MedGenome**.
+- **May** — Completed a summer internship at **MedGenome**. Thanks to Vivek Gopalan for his guidance and Rohit Gupta for giving me my first opporunity when I had no experience. 
 
 ---
 
@@ -65,22 +66,22 @@ title: Activities
 - [ASHG Trainee Awards for Excellence in Human Genetics Research (2025)](https://www.ashg.org/wp-content/uploads/2026/02/2025-ASHG-TREA-recipients.pdf)
   - Selected as one of **21 predoctoral semifinalists** from over **800 applicants**. Awarded a travel and a cash award of $750 by the American Society of Human Genetics held at Boston, MA, USA.
 
-- [Genome Informatics 2024](https://drive.google.com/file/d/1vzrFgez5dae4iqtzLP5js-HWSz2pK4N3/view?usp=sharing)
+- [Bursary Award @ Genome Informatics 2024](https://drive.google.com/file/d/1vzrFgez5dae4iqtzLP5js-HWSz2pK4N3/view?usp=sharing)
   - Recipient of the bursary Award + Graduate Student Travel Award for Genome Informatics 2024 held at Hinxton, South Cambridgeshire, England.
 
 - [ASHG Trainee Awards for Excellence in Human Genetics Research (2023)](https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf)
   - Selected as one of **21 predoctoral semifinalists** from over **1,000 applicants**. Awarded a travel and a cash award of $750 by the American Society of Human Genetics held at Washington DC, USA.
 
-- [Summer Institute of Statistical Genetics (SISG) 2023](https://drive.google.com/file/d/1aSZ9C_WhcnpVmhOikUYeBNiN2Lm1WJOy/view)
+- [Summer Institute of Statistical Genetics (SISG) 2023 scholarship + travel award](https://drive.google.com/file/d/1aSZ9C_WhcnpVmhOikUYeBNiN2Lm1WJOy/view)
   - Received scholarship + Travel award amounting to 2785$ to attend the Summer Institute of Statistical Genetics 2023 held at Seattle, Washington, USA.
 
 - [Tata Consultancy Services (TCS) Poster Competition, Shaastra 2019](https://drive.google.com/file/d/1sAKGwR4dxGb-u0bglmoMngOZUCYqc822/view)
   - One of **6 winning teams** selected from 26 finalists for presenting the ChassiDex project held at Chennai, India. Awarded for developing a user-friendly web page to codon optimize protein sequences for different chassis, using Python library Flask, HTML, CSS.
 
-- [iGEM 2018](https://drive.google.com/file/d/1prGProqvwGSvgv8APgEiwYmOKybi3RSu/view)
+- [Gold medal @ iGEM 2018](https://drive.google.com/file/d/1prGProqvwGSvgv8APgEiwYmOKybi3RSu/view)
   - Led the IIT Madras team to a **Gold Medal** at the International Genetically Engineered Machine Competition held at Boston, MA, USA.
 
-- [iGEM 2017](https://drive.google.com/file/d/1u5i8qv8kobHU0MlTeGis1QeyYl_-vmK4/view)
+- [Silver medal @ iGEM 2017](https://drive.google.com/file/d/1u5i8qv8kobHU0MlTeGis1QeyYl_-vmK4/view)
   - Received a **Silver Medal** as a member of the IIT Madras iGEM team held at Boston, MA, USA.
 
 ---
@@ -103,7 +104,7 @@ title: Activities
 
 ## Service & Outreach
 
-- Reviewer for **Genes Brain and Behaviour**
+- Reviewer for **Genes Brain and Behaviour** (May 2026)
 - **Mount Sinai PhD application interviewee**  (Feb 2022, Jan 2023, Feb 2024, Feb 2026)
 - **PEERS, Mount Sinai** (Oct 2022 – Mar 2025) - — Served as a student wellness advisor facilitating peer-support and resilience-building workshops for graduate trainees.
 - **Center of Excellence in Youth Education (CEYE), Mount Sinai** (Aug 2022) - Served as a volunteer tutor, teaching high school students Bioinformatics, its many uses, and its real-life applications.
