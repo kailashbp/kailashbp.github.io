@@ -14,7 +14,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/BoG_2026.jpg" width="350"><br>
+<img src="/images/BoG_2026.jpg" width="250"><br>
 <em>@ Biology of Genomes 2026</em>
 </td>
 
@@ -26,7 +26,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <tr>
 <td align="center">
-<img src="/images/LanguageProject_talk.jpg" width="350"><br>
+<img src="/images/LanguageProject_talk.jpg" width="250"><br>
 <em>Sharing The Language Project and the importance of accessible science communication</em>
 </td>
 
@@ -40,7 +40,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 ---
 
-## ASHG 2025
+## ASHG 2026
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/RajLab_2025_holiday.jpg" width="350"><br>
+<img src="/images/RajLab_2025_holiday.jpg" width="250"><br>
 <em>Raj Lab 10 year anniversary gathering</em>
 </td>
 

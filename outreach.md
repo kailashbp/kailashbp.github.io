@@ -53,6 +53,7 @@ Related coverage:
 
 - [Times of India](https://drive.google.com/file/d/1ByiAA5Vg0gL0XbthtkHuCUx8s3NtQLxL/view)
 - [New Indian Express](https://www.newindianexpress.com/cities/chennai/2019/apr/17/iit-m-students-will-help-you-learn-biology-in-33-languages-1965229.html)
+- [IEEE Newsletter](http://sites.ieee.org/indiacouncil/files/2018/11/p67-p68.pdf)
 
 ---
 
