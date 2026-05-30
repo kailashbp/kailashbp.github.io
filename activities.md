@@ -37,13 +37,12 @@ title: Activities
 ### 2021
 
 - **August** — Joined the **Icahn School of Medicine at Mount Sinai** as a PhD student in Biomedical Sciences.
-- **June** — Published a meta-analysis of the iGEM InterLab studies in **PLOS ONE**.
+- **June** — Contributed data for the iGEM InterLab studies, now published in **PLOS ONE**.
 
 ### 2020
 
 - **September** — Contributed to the publication of the iGEM 2018 InterLab Study in **Communications Biology**.
 - **February** — Presented updates on **ChassiDex** at the EMBO Symposium *Designing Biological Systems*.
-- **October 20** — Continued development and outreach activities for **The Language Project**.
 
 ### 2019
 
@@ -99,18 +98,6 @@ title: Activities
 - **BT3040: Bioinformatics** (Spring 2020)
 
 - **CS6024: Algorithmic Approaches to Computational Biology** (Fall 2019)
-
----
-
-## Science Communication
-
-### Unraveling immunity: insights from biobank-scale data
-
-A product of the Genomics Preprint Club initiative - [article](https://www.cell.com/trends/genetics/abstract/S0168-9525(25)00188-X)
-
-### InterTissue DC BTS
-
-Springer Nature Research Communitites Article on behind the scenes of the InterTissueDC - [article](https://communities.springernature.com/posts/intertissuedc-exploring-gene-gene-coupling-across-brain-regions-in-alzheimer-s-disease)
 
 ---
 
