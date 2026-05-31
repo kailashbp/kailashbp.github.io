@@ -27,7 +27,7 @@ My research focuses on understanding how genetic variation influences gene expre
 
 **Links:** [Website](https://bigbrain.nygenome.org) · [GitHub](https://github.com/RajLabMSSM/bigbrain-distal-qtl)
 
-**Publications:** [medRxiv *cis*-sQTL 2025](https://medrxiv.org/lookup/doi/10.1101/2025.09.25.25336663); [medRxiv *cis*-edQTL 2025](https://www.medrxiv.org/content/10.1101/2025.09.30.25337026v2)
+**Publications:** [medRxiv *cis*-sQTL, 2025](https://medrxiv.org/lookup/doi/10.1101/2025.09.25.25336663); [medRxiv *cis*-edQTL, 2025](https://www.medrxiv.org/content/10.1101/2025.09.30.25337026v2)
 
 *Presented at ASHG 2023, JAX Long-Read Sequencing Workshop 2024, Genome Informatics 2024, AD-GRC 2025, ASHG 2025, and Biology of Genomes 2026.*
 

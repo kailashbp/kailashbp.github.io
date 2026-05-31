@@ -111,7 +111,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <td align="center">
 <img src="/images/GPC_team_outing.jpg" width="250"><br>
-<em>Genomics Preprint Club team outing to MoMA, NYC</em>
+<em>Genomics Preprint Club team outing to MoMA, NYC 2025</em>
 </td>
 </tr>
 </table>

@@ -63,13 +63,13 @@ title: Activities
 
 ## Awards & Honors
 
-- [ASHG Trainee Awards for Excellence in Human Genetics Research (2025)](https://www.ashg.org/wp-content/uploads/2026/02/2025-ASHG-TREA-recipients.pdf)
+- [ASHG Trainee Award for Excellence in Human Genetics Research (2025)](https://www.ashg.org/wp-content/uploads/2026/02/2025-ASHG-TREA-recipients.pdf)
   - Selected as one of **21 predoctoral semifinalists** from over **800 applicants**. Awarded a travel and a cash award of $750 by the American Society of Human Genetics held at Boston, MA, USA.
 
 - [Bursary Award @ Genome Informatics 2024](https://drive.google.com/file/d/1vzrFgez5dae4iqtzLP5js-HWSz2pK4N3/view?usp=sharing)
   - Recipient of the bursary Award + Graduate Student Travel Award for Genome Informatics 2024 held at Hinxton, South Cambridgeshire, England.
 
-- [ASHG Trainee Awards for Excellence in Human Genetics Research (2023)](https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf)
+- [ASHG Trainee Award for Excellence in Human Genetics Research (2023)](https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf)
   - Selected as one of **21 predoctoral semifinalists** from over **1,000 applicants**. Awarded a travel and a cash award of $750 by the American Society of Human Genetics held at Washington DC, USA.
 
 - [Summer Institute of Statistical Genetics (SISG) 2023 scholarship + travel award](https://drive.google.com/file/d/1aSZ9C_WhcnpVmhOikUYeBNiN2Lm1WJOy/view)
@@ -104,12 +104,12 @@ title: Activities
 
 ## Service & Outreach
 
-- Reviewer for **Genes Brain and Behaviour** (May 2026)
+- Peer reviewer for **Genes Brain and Behaviour** (May 2026); reviewer activity is publicly tracked through my [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/QIU-9234-2026).
 - **Mount Sinai PhD application interviewee**  (Feb 2022, Jan 2023, Feb 2024, Feb 2026)
-- **PEERS, Mount Sinai** (Oct 2022 – Mar 2025) - — Served as a student wellness advisor facilitating peer-support and resilience-building workshops for graduate trainees.
+- **PEERS, Mount Sinai** (Oct 2022 – Mar 2025) - Served as a student wellness advisor facilitating peer-support and resilience-building workshops for graduate trainees.
 - **Center of Excellence in Youth Education (CEYE), Mount Sinai** (Aug 2022) - Served as a volunteer tutor, teaching high school students Bioinformatics, its many uses, and its real-life applications.
-- **Trainee Health and Wellness (THAW) and PEERS, Mount Sinai** (Oct 2021 – Jun 2022)
-- **National Service Scheme (NSS), IIT Madras** (July 2019 – June 2020)
+- **Trainee Health and Wellness (THAW) and PEERS, Mount Sinai** (Oct 2021 – Jun 2022) - Organized the Failing Forward series to normalize failure in academia by listening to established scientists.
+- **National Service Scheme (NSS), IIT Madras** (July 2019 – June 2020) - Organized blood donation campaigns.
 
 ## Professional memberships
 
